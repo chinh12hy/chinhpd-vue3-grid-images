@@ -10,6 +10,10 @@
     "dist/*",
     "src/**/*.vue"
   ],
+  "bugs": {
+    "url": "https://github.com/chinh12hy/chinhpd-vue3-grid-images/issues"
+  },
+  "homepage": "https://github.com/chinh12hy/chinhpd-vue3-grid-images",
   "sideEffects": false,
   "scripts": {
     "serve": "vue-cli-service serve dev/serve.js",
